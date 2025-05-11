@@ -1,0 +1,3 @@
+- [ ] Screw PCB into top
+- [ ] Solder button
+- [ ] Print/make stand offs to account for additional height
