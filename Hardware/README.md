@@ -9,3 +9,4 @@ The case still fits these bearings, which I bought from here:
 I used a second hand Xiaomi mouse. I think it's this version:
 
 You can drill a very small pilot hole and use the screws from the mouse to fix the PCB to the top half of the case.
+Make sure you test first and make sure that the sensor (now facing upwards) is an appropriate distance from the ball. If the ball is too close to the sensor you'll get unintentional tracking (for me it pulled to the top left). If the sensor is too far away from the ball the cursor won't move.
