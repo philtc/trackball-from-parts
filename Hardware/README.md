@@ -1,8 +1,7 @@
 For the trackball case, I've modified the open source Ploopy trackball nano.
 The case has been scaled to fit a 40mm ball (which I took from a second hand Logitech trackman marble).
 
-You'll need to 3D print the case.
-
+You'll need to 3D print the case with supports.
 
 The case still fits these bearings, which I bought from here:
 
