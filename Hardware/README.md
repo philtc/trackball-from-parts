@@ -19,7 +19,7 @@ You can drill pilot holes using PCB as a template and a 1.5mm drill bit. You can
 You'll also need a screw to hold the top and bottom halves. I used a M3 x 10mm bolt.
 
 ## Batteries
-You'll need 2xAA batteries.  The holder is a remix from this STL:
+You'll need 2xAAA batteries.  The holder is a remix from this STL:
 
 The batteries face downwards for easy removal.
 I used the terminals from the original mouse and clipped the springs.  You'll need to take note of which side is positive and which is negative for the batteries.
