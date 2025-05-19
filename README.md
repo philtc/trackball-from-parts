@@ -6,3 +6,11 @@ This repository adds to these, with the intent of building a trackball (re)using
 The repository is divided into two parts:
 1. The hardware - 3D printed parts, PCB, buttons etc.
 2. The software - links and information relating to jfedor's amazing work
+
+
+## Requirements
+* Basic soldering (for battery terminals, button(s), and HID remapper)
+* Access to a 3D printer or 3D printing services
+* New and/or second-hand parts
+  * Mouse
+  * Trackball ball
