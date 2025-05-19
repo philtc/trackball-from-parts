@@ -14,3 +14,5 @@ The repository is divided into two parts:
 * New and/or second-hand parts
   * Mouse
   * Trackball ball
+  * Rollers
+  * (Optional) button
