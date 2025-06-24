@@ -8,7 +8,7 @@ You'll need to 3D print the case with supports.
 The case still fits these bearings, which I bought from here:
 
 ## PCB
-I used a second hand Xiaomi mouse. I think it's this version:
+I used a second hand Xiaomi mouse. I think it's this version: XMSBO1MW
 
 
 Make sure you test first and make sure that the sensor (now facing upwards) is an appropriate distance from the ball, and that other pointing devices are disconnected from your computer.
