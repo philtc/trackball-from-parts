@@ -12,7 +12,7 @@ I used a second hand Xiaomi mouse. I think it's this version: XMSBO1MW
 
 
 Make sure you test first and make sure that the sensor (now facing upwards) is an appropriate distance from the ball, and that other pointing devices are disconnected from your computer.
-If the ball is too close to the sensor you might get unintentional tracking. If the sensor is too far away from the ball the cursor won't move.
+If the ball is too close to the sensor you might get unintentional tracking. If the sensor is too far away from the ball the cursor won't move. You may also need to adjust how far the bearings are seated in the housing if the ball is touching the sensor.
 
 ## Screws
 You can drill pilot holes using PCB as a template and a 1.5mm drill bit. You can use the screws from the mouse to fix the PCB to the top half of the case.
