@@ -21,5 +21,5 @@ The repository is divided into two parts:
   * Original Xiaomi portable mouse (Model number: XMSBO1MW)
   * 40mm Trackball ball
   * Bearings (MR63ZZ)
-  * (Optional) button
   * A [HID remapper](https://github.com/jfedor2/hid-remapper) by [jfedor2](https://github.com/jfedor2) including RP2040 and USB-A female port
+  * (Optional) button
