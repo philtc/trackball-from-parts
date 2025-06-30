@@ -23,3 +23,7 @@ You'll need 2xAAA batteries.  The holder is a remix from this STL:
 
 The batteries face downwards for easy removal.
 I used the terminals from the original mouse and clipped the springs.  You'll need to take note of which side is positive and which is negative for the batteries.
+
+## Ball
+I used the 40mm ball from my Logitech Trackman Marble.
+I also bought a cheap, hollow stainless steel ball off AliExpress. I needed to scratch the surface with a brass bristled brush before it would track. the ball is not completely symmetrical. In short, the ball works, but the experience is not ideal.
