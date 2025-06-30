@@ -18,8 +18,8 @@ The repository is divided into two parts:
 * Basic soldering (for battery terminals, button(s), and HID remapper)
 * Access to a 3D printer or 3D printing services
 * New and/or second-hand parts
-  * Original Xiaomi portable mouse (I think the model number is XMSBO1MW)
-  * 40mm Trackball ball (I used the one from a Logitech marble)
+  * Original Xiaomi portable mouse (Model number: XMSBO1MW)
+  * 40mm Trackball ball
   * Bearings (MR63ZZ)
   * (Optional) button
   * A [HID remapper](https://github.com/jfedor2/hid-remapper) by [jfedor2](https://github.com/jfedor2) including RP2040 and USB-A female port
