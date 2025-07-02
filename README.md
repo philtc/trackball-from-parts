@@ -10,8 +10,8 @@ This repository adds to these, with the intent of building a trackball (re)using
 I've been using this as my daily pointing device for the past two months and it works well enough for my needs.  Your mileage may vary.
 
 The repository is divided into two parts:
-1. The hardware - 3D printed parts, PCB, buttons etc.
-2. The software - links and information relating to jfedor's amazing work
+1. Hardware - 3D printed parts, PCB, buttons etc.
+2. Software - links and information relating to jfedor's amazing work
 
 
 ## Requirements
