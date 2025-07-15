@@ -19,7 +19,7 @@ The repository is divided into two parts:
 * Access to a 3D printer or 3D printing services
 * New and/or second-hand parts
   * Original Xiaomi portable mouse (Model number: XMSBO1MW)
-  * 40mm Trackball ball
+  * 40mm POM ball (AUD $6.85 from AliExpress)
   * Bearings (MR63ZZ)
   * A [HID remapper](https://github.com/jfedor2/hid-remapper) by [jfedor2](https://github.com/jfedor2) including RP2040 and USB-A female port
   * (Optional) button
